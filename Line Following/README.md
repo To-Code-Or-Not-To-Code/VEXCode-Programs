@@ -7,7 +7,7 @@ If you are copy-pasting, then please use the `cpp` file. If you're trying to upl
 This program was written in C++ for the 1st Generation VEXIQ Brain.
 
 | Port | Component           |
-| ---- | ------------------- |
+| :--: | :-----------------: |
 | 6    | Left Motor          |
 | 1    | Right Motor         |
 | 4    | Gyro                |
