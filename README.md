@@ -11,4 +11,4 @@ program_name/
     - program_name.iqcpp (if using c++, otherwise, use program_name.iqblocks)
 ```
 
-The file `README.md` should have information about the program and use directions (if necessary). It should also have a badge showing if it is in progress completed. Please read the full README guide if you need to.
+The file `README.md` should have information about the program and use directions (if necessary). It should also have a badge showing if it is in progress completed. Please check out the style guide before creating a new program folder!
