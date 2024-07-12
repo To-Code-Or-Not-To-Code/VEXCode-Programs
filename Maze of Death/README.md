@@ -9,5 +9,5 @@ Made for the Gen 1 Brain using C++/IQblocks. Copy-paste using `cpp` file, upload
 |1   |Right Motor|
 |4   | Gyro |
 
-> [!INFO]
-> Project is complete.
+> [!NOTE]
+> Project is complete
