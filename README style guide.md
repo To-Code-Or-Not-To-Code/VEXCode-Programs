@@ -14,7 +14,8 @@ Under there, add either `> :white_check_mark: This project is completed! `, `> :
 
 You're done!
 
-**Tip**: You can use backticks to make a section of text look like `this`.
+> [!TIP]
+> You can use the backtick (\`) character to make text look like `this`. You can use asterisks to make *italic* text and use two asterisks on each side to make **bolded** text.
 
 Final code:
 ```markdown
@@ -41,4 +42,4 @@ Made for the 1st generations of brains. The code expects 3 lights attached to po
 
 ## Feel free to modify this style guide!
 
-P.S.: You may use other features in Markdown such as tables, tips, etc.
+P.S.: You may use other features in Markdown such as tables, alerts, subheadings, etc.
