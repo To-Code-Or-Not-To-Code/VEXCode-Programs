@@ -1,7 +1,7 @@
 # MAZE OF DEATH
-Code to solve the maze of death
+Code to solve the maze of death.
 
-Made for the Gen 1 Brain
+Made for the Gen 1 Brain using C++. Copy-paste using `cpp` file, upload with the `iqcpp` file.
 
 |Port|Component|
 |:--:|:-------:|
@@ -9,5 +9,5 @@ Made for the Gen 1 Brain
 |1   |Right Motor|
 |4   | Gyro |
 
-> [!WARNING]
-> Project isn't complete yet.
+> [!INFO]
+> Project is complete.
