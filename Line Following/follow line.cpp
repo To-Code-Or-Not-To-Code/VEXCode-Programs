@@ -31,7 +31,7 @@ colorsensor LeftColour = colorsensor(PORT5);
 colorsensor RightColour = colorsensor(PORT12);
 motor LeftDriveSmart = motor(PORT6, 1, false);
 motor RightDriveSmart = motor(PORT1, 1, true);
-gyro DrivetrainGyro = gyro(PORT8, true);
+gyro DrivetrainGyro = gyro(PORT4, true);
 smartdrive Drivetrain = smartdrive(LeftDriveSmart, RightDriveSmart, DrivetrainGyro, 200);
 
 
