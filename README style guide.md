@@ -40,3 +40,5 @@ Made for the 1st generations of brains. The code expects 3 lights attached to po
 
 
 ## Feel free to modify this style guide!
+
+P.S.: You may use other features in Markdown such as tables, tips, etc.
